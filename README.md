@@ -101,14 +101,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Steps to upload the `README.md` to GitHub:
 
-1. Create a new repository on GitHub (or open an existing one).
-2. On your local machine, navigate to the folder where your project is stored.
-3. Create a new file named `README.md` in the project directory and paste the above content inside it.
-4. Push the changes to GitHub using the following Git commands:
-
-
-git add README.md
 git commit -m "Added README.md"
 git push origin main
